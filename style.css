@@ -11,14 +11,20 @@ html, body{
 	padding: 0;
 	position: relative;
 }
-a{
-	display: block;
+.box div{
 	width: 50%;
 	height: 25%;
-	line-height: 25%;
 	float: left;
-	font-size: 20px;
 	text-align: center;
+	vertical-align: middle;
+}
+a{
+	height: 100%;
+	width: 100%;
+	display: block;
+	vertical-align: middle;
+	font-size: 20px;
+	
 	text-decoration: none;
 }
 #white-cell{
