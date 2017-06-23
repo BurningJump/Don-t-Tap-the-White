@@ -14,14 +14,11 @@ html,body{
 	position: relative;
 	
 }
-<<<<<<< HEAD
 a{
 	width: 50%;
 	height: 25%;
 	float: left;
 	font-size: 20px;
-=======
-.box div{
 	width: 50%;
 	height: 25%;
 	float: left;
@@ -34,8 +31,6 @@ a{
 	display: block;
 	vertical-align: middle;
 	font-size: 20px;
-	
->>>>>>> 3e5241a9755cd04043b97ba09fc95837ee56ac00
 	text-decoration: none;
     display: -webkit-box;
     -webkit-box-pack: center;
